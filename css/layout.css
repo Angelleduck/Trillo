@@ -1,0 +1,22 @@
+.container {
+  max-width: 120rem;
+
+  background-color: #fff;
+  margin: 8rem auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.482);
+}
+
+header {
+  height: 7rem;
+
+  display: flex;
+  align-items: center;
+  font-family: "Open sans";
+  justify-content: space-between;
+  border-bottom: var(--line);
+}
+
+main {
+  display: flex;
+  height: 100%;
+}
